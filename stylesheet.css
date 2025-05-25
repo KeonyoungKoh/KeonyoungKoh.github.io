@@ -140,3 +140,19 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.project-block {
+  padding: 16px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+.project-block strong {
+  font-size: 15px;
+}
+.project-block em {
+  color: #666;
+  font-style: italic;
+  font-size: 13px;
+}
